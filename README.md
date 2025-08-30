@@ -1,6 +1,5 @@
-Please note you should find a ed25519 signed userID or URL under my any social media account.
-
-If not, then it is a fake one. see below ↓
+noticed someone is impersonating me. you should find https://verification.woznes.com under my any social media account, and corresponding account info in the website.
+If not, then it is a fake one.
 
 + Github URL: [`https://github.com/NickJi2019`](https://github.com/NickJi2019) (in UTF-8)
 + pubkey: `+j++LbYgnubYuBwgfPegu+TtdrGgxyUhTDl+C5xUVt4=` (in Base64)
