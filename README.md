@@ -1,4 +1,4 @@
-![Stats](https://github-stats-extended.vercel.app/api?username=nickji2019&theme=radical)
+![Stats](https://github-stats-extended.vercel.app/api?username=nickji2019)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=nickji2019)](https://github.com/stats-organization/github-stats-extended)
 
 
